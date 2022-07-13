@@ -8,12 +8,12 @@ global.owner = [
   ['+1 760-891-4335'],
   ['+999999999'],
   ['+666666666'],
-  ['+62 818-0545-0249'],
+  ['+62 821-2596-8810'],
   ['+62 821-2596-8810', 'Afgan  ID', true],
   ['+62 821-2596-8810', 'Afgan Ganteng', true],
   ['+62 821-2596-8810', 'Bot', true],
   ['+999999999', 'unfined', true],
-  ['+666666666, 'unfined', true],
+  ['+666666666', 'unfined', true],
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
