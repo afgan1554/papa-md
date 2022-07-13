@@ -10,7 +10,7 @@ global.owner = [
   ['+666666666'],
   ['+62 818-0545-0249'],
   ['+62 821-2596-8810', 'Afgan  ID', true],
-  [+62 821-2596-8810', 'Afgan Ganteng', true],
+  ['+62 821-2596-8810', 'Afgan Ganteng', true],
   ['+62 821-2596-8810', 'Bot', true],
   ['+999999999', 'unfined', true],
   ['+666666666, 'unfined', true],
@@ -119,15 +119,15 @@ global.pmenus = '✦' //pembatas menu selector
 
 global.htki = '––––––『' //hiasan title kiri
 global.htka = '』––––––' //hiasan title kanan
-global.lopr = 'Ⓟ'
-global.lolm = 'Ⓛ'
+global.lopr = '『 PREMIUM 』'
+global.lolm = '『 LIMIT 』'
 global.htjava = '⫹⫺' //hiasan Doang :v
 global.hsquere = '⛶', '❏', '⫹⫺'
 global.l = '「'
 global.r = '」'
 // Sticker WM
-global.packname = ''
-global.author = ''
+global.packname = 'kanna BOT'
+global.author = 'Created By Afgan ID'
 
 global.multiplier = 69 // The higher, The harder levelup
 
